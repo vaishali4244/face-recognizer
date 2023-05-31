@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/face-recognizer/static/css/main.ded92e9d.css",
-    "main.js": "/face-recognizer/static/js/main.c9725ccc.js",
-    "static/js/787.ab440c1a.chunk.js": "/face-recognizer/static/js/787.ab440c1a.chunk.js",
-    "static/media/bulb.png": "/face-recognizer/static/media/bulb.25d14301375a89f259a4.png",
-    "index.html": "/face-recognizer/index.html",
-    "main.ded92e9d.css.map": "/face-recognizer/static/css/main.ded92e9d.css.map",
-    "main.c9725ccc.js.map": "/face-recognizer/static/js/main.c9725ccc.js.map",
-    "787.ab440c1a.chunk.js.map": "/face-recognizer/static/js/787.ab440c1a.chunk.js.map"
+    "main.css": "/vaishali4244/face-recognizer.git/static/css/main.ded92e9d.css",
+    "main.js": "/vaishali4244/face-recognizer.git/static/js/main.c0ed1c54.js",
+    "static/js/787.ab440c1a.chunk.js": "/vaishali4244/face-recognizer.git/static/js/787.ab440c1a.chunk.js",
+    "static/media/bulb.png": "/vaishali4244/face-recognizer.git/static/media/bulb.25d14301375a89f259a4.png",
+    "index.html": "/vaishali4244/face-recognizer.git/index.html",
+    "main.ded92e9d.css.map": "/vaishali4244/face-recognizer.git/static/css/main.ded92e9d.css.map",
+    "main.c0ed1c54.js.map": "/vaishali4244/face-recognizer.git/static/js/main.c0ed1c54.js.map",
+    "787.ab440c1a.chunk.js.map": "/vaishali4244/face-recognizer.git/static/js/787.ab440c1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ded92e9d.css",
-    "static/js/main.c9725ccc.js"
+    "static/js/main.c0ed1c54.js"
   ]
 }
