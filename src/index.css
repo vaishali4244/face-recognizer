@@ -6,7 +6,6 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   background: linear-gradient(to right,rgb(174, 76, 185),rgb(215, 215, 14));
 }
-
 button{
   cursor:pointer;
 }

@@ -9,6 +9,8 @@ import Register from './components/Register/Register';
 import 'tachyons';
 import './App.css';
 import ParticlesBg from 'particles-bg';
+// vaishalirocks
+
 
 const initialState = {
     input: '',
