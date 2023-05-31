@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.logoAlign {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.rankAlign {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: hwb(0 9% 91%);
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0 auto;
+  padding-top:15px ;
+  border-right: .15em solid rgb(212, 212, 29);
+  text-shadow:2px 3px #b25aa8;
+  letter-spacing: 0.15em;
+  animation: typing 4.5s steps(30, end), blink-caret .5s step-end infinite, color 3.5s steps(40, end);
+}
+@media only screen and (min-width:400px) and (max-width:975px) {
+  .logoAlign {
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1em;
+  }
+  h1{
+    font-size: 1.5em ;
+  }
+}
+
+@media only screen and (max-width:400px) {
+  .logoAlign {
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1em;
+    width: 360px;
+  }
+  h1{
+display: none;
+  }
+}
+
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 50%;
+  }
+}
+
+ @keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(212, 212, 29);
+  }
+} 
+
+@keyframes color {
+  0% {
+    color: black;
+  }
+
+  20% {
+    color: rgb(130, 44, 133);
+  }
+  40% {
+    color: green;
+  }
+  60% {
+    color: red;
+  }
+  80% {
+    color: rgb(55, 37, 176);
+  }
+
+  100% {
+    color: black;
+  }
+}
