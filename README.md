@@ -1,3 +1,4 @@
+![Screenshot (1336)](https://github.com/vaishali4244/face-recognizer/assets/112726638/3095fd95-522e-4f2a-876c-7eab7307929d)
 ![face-detector](https://github.com/vaishali4244/face-recognizer/assets/112726638/9d69a25a-40d7-4655-a205-c24837d9d415)
 # Getting Started with Create React App
 
