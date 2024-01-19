@@ -1,3 +1,4 @@
+![face-detector](https://github.com/vaishali4244/face-recognizer/assets/112726638/9d69a25a-40d7-4655-a205-c24837d9d415)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
